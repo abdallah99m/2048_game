@@ -1,0 +1,27 @@
+F:\mini ptoject\mini ptoject\bin\Debug\mini ptoject.exe.config
+F:\mini ptoject\mini ptoject\bin\Debug\mini ptoject.exe
+F:\mini ptoject\mini ptoject\bin\Debug\mini ptoject.pdb
+F:\mini ptoject\mini ptoject\obj\Debug\mini ptoject.csprojAssemblyReference.cache
+F:\mini ptoject\mini ptoject\obj\Debug\mini_ptoject.Properties.Resources.resources
+F:\mini ptoject\mini ptoject\obj\Debug\mini ptoject.csproj.GenerateResource.cache
+F:\mini ptoject\mini ptoject\obj\Debug\mini ptoject.csproj.CoreCompileInputs.cache
+F:\mini ptoject\mini ptoject\obj\Debug\mini ptoject.exe
+F:\mini ptoject\mini ptoject\obj\Debug\mini ptoject.pdb
+F:\sem4\mini ptoject\mini ptoject\bin\Debug\mini ptoject.exe.config
+F:\sem4\mini ptoject\mini ptoject\bin\Debug\mini ptoject.exe
+F:\sem4\mini ptoject\mini ptoject\bin\Debug\mini ptoject.pdb
+F:\sem4\mini ptoject\mini ptoject\obj\Debug\mini ptoject.csprojAssemblyReference.cache
+F:\sem4\mini ptoject\mini ptoject\obj\Debug\mini_ptoject.Properties.Resources.resources
+F:\sem4\mini ptoject\mini ptoject\obj\Debug\mini ptoject.csproj.GenerateResource.cache
+F:\sem4\mini ptoject\mini ptoject\obj\Debug\mini ptoject.csproj.CoreCompileInputs.cache
+F:\sem4\mini ptoject\mini ptoject\obj\Debug\mini ptoject.exe
+F:\sem4\mini ptoject\mini ptoject\obj\Debug\mini ptoject.pdb
+G:\PROJECTS\mini ptoject\mini ptoject\bin\Debug\mini ptoject.exe.config
+G:\PROJECTS\mini ptoject\mini ptoject\bin\Debug\mini ptoject.exe
+G:\PROJECTS\mini ptoject\mini ptoject\bin\Debug\mini ptoject.pdb
+G:\PROJECTS\mini ptoject\mini ptoject\obj\Debug\mini ptoject.csprojAssemblyReference.cache
+G:\PROJECTS\mini ptoject\mini ptoject\obj\Debug\mini_ptoject.Properties.Resources.resources
+G:\PROJECTS\mini ptoject\mini ptoject\obj\Debug\mini ptoject.csproj.GenerateResource.cache
+G:\PROJECTS\mini ptoject\mini ptoject\obj\Debug\mini ptoject.csproj.CoreCompileInputs.cache
+G:\PROJECTS\mini ptoject\mini ptoject\obj\Debug\mini ptoject.exe
+G:\PROJECTS\mini ptoject\mini ptoject\obj\Debug\mini ptoject.pdb
